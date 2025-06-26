@@ -181,11 +181,11 @@ const Hero: React.FC = () => {
             sequence={[
               'Frontend Developer',
               2000,
-              'React Specialist',
+              'html ,css, javascript',
               2000,
               'TypeScript Expert',
               2000,
-              'UI/UX Enthusiast',
+              'data operator',
               2000,
               'Problem Solver',
               2000,
@@ -250,7 +250,7 @@ const Hero: React.FC = () => {
             <FaGithub />
           </SocialLink>
           <SocialLink
-            href="https://linkedin.com/in/shahidzahoor"
+            href="https://www.linkedin.com/in/shahid-zahoor-522219310/"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1, rotate: 5 }}
@@ -259,7 +259,7 @@ const Hero: React.FC = () => {
             <FaLinkedin />
           </SocialLink>
           <SocialLink
-            href="https://twitter.com/shahidzahoor"
+            href="https://x.com/KrShaheen"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1, rotate: 5 }}

@@ -261,11 +261,11 @@ const Contact: React.FC = () => {
     },
     {
       icon: <FaPhone />,
-      text: '+1 (555) 123-4567'
+      text: '+91 9682695590'
     },
     {
       icon: <FaMapMarkerAlt />,
-      text: 'New York, NY, USA'
+      text: 'kashmir, india'
     }
   ];
 

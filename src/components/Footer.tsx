@@ -126,8 +126,8 @@ const Footer: React.FC = () => {
 
   const socialLinks = [
     { icon: <FaGithub />, url: 'https://github.com/shahidzahoor', label: 'GitHub' },
-    { icon: <FaLinkedin />, url: 'https://linkedin.com/in/shahidzahoor', label: 'LinkedIn' },
-    { icon: <FaTwitter />, url: 'https://twitter.com/shahidzahoor', label: 'Twitter' }
+    { icon: <FaLinkedin />, url: 'https://www.linkedin.com/in/shahid-zahoor-522219310/', label: 'LinkedIn' },
+    { icon: <FaTwitter />, url: 'https://x.com/KrShaheen', label: 'Twitter' }
   ];
 
   return (
@@ -180,11 +180,11 @@ const Footer: React.FC = () => {
             <FooterTitle>Contact Info</FooterTitle>
             <FooterText>
               <strong>Email:</strong><br />
-              shahid.zahoor@email.com
+              shahidzahoor5224@gmail.com
             </FooterText>
             <FooterText>
               <strong>Location:</strong><br />
-              New York, NY, USA
+              kashmir, india
             </FooterText>
             <FooterText>
               <strong>Available for:</strong><br />
@@ -208,7 +208,7 @@ const Footer: React.FC = () => {
         <FooterBottom>
           <Copyright>
             © {currentYear} Shahid Zahoor. All rights reserved. Made with{' '}
-            <HeartIcon /> in New York
+            <HeartIcon /> in kashmir
           </Copyright>
         </FooterBottom>
       </Container>
